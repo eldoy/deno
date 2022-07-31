@@ -1,6 +1,5 @@
-function hello(str: any) {
+function hello(str: string) {
   console.log(str)
-  return 'awfe'
 }
 
 hello('world')
